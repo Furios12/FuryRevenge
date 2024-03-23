@@ -1,0 +1,26 @@
+[Copyright FuryStudios 2024/2025]
+
+Ciao Grazie di aver scaricato FuryRevenge
+
+Per iniziare avvia il file FuryLauncher.exe
+il launcher scaricherà tutto automaticamente e avvierà il bot in caso tu non ti fida lo puoi fare manualmente!
+
+
+
+Istruzioni avvio manuale
+andare dentro la cartella cmd
+e installare i requisiti facendo questi  3 semplici comandi
+[ATTENZIONE DEVI AVERE PYTHON INSTALLATO SUL TUO PC]
+Comandi:
+pip install colorama==0.4.6
+pip install discord.py==2.1.0
+pip install requests==2.28.2
+
+dopo aver installato i requisiti fai questo comando sempre dentro src
+
+py FuryRevenge.py cosi si avvierà il programma dopo inserisci il token del bot il tuo id e appena finito il bot sarà online!
+
+Grazie ancora!
+
+un saluto dal team di sviluppo FuryStudios!
+
